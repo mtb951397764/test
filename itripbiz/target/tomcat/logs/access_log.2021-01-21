@@ -1,0 +1,6 @@
+127.0.0.1 - - [21/Jan/2021:10:58:30 +0800] "GET /biz/api/hotel/queryhotcity/2 HTTP/1.0" 404 949 http-bio-8081-exec-1 80
+127.0.0.1 - - [21/Jan/2021:10:58:30 +0800] "GET /biz/api/hotel/queryhotcity/1 HTTP/1.0" 404 949 http-bio-8081-exec-2 81
+127.0.0.1 - - [21/Jan/2021:10:58:30 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.0" 404 949 http-bio-8081-exec-3 83
+127.0.0.1 - - [21/Jan/2021:10:58:42 +0800] "GET /biz/api/hotel/queryhotcity/2 HTTP/1.0" 404 949 http-bio-8081-exec-4 19
+127.0.0.1 - - [21/Jan/2021:10:58:42 +0800] "GET /biz/api/hotel/queryhotcity/1 HTTP/1.0" 404 949 http-bio-8081-exec-5 6
+127.0.0.1 - - [21/Jan/2021:10:58:42 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.0" 404 949 http-bio-8081-exec-6 9
